@@ -16,16 +16,10 @@ Make sure you have Docker installed on your system. Docker can be downloaded fro
 
 2. **Navigate to the cloned repository:**
 
-3. **Build the Docker image:**
+3. **Build and run the Docker image:**
 
     ```
-    docker build -t wordpress-docker .
-    ```
-
-4. **Run the Docker container:**
-
-    ```
-    docker run -d -p 80:80 -p 443:443 wordpress-docker
+    docker compose up -d
     ```
 
 5. **Open your web browser and go to [https://localhost](https://localhost) to access the WordPress site.**
