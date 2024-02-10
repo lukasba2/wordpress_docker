@@ -11,7 +11,7 @@ Make sure you have Docker installed on your system. Docker can be downloaded fro
 1. **Clone this repository to your local machine:**
 
     ```
-    git clone [<repository-url>](https://github.com/lukasba2/wordpress_docker.git)
+    git clone (https://github.com/lukasba2/wordpress_docker.git)
     ```
 
 2. **Navigate to the cloned repository:**
