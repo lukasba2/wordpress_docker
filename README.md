@@ -4,21 +4,17 @@ This repository contains a Dockerfile for setting up a WordPress instance with S
 
 ## Prerequisites
 
-Before you begin, make sure you have Docker installed on your system. You can download and install Docker from the [official Docker website](https://www.docker.com/get-started).
+Make sure you have Docker installed on your system. Docker can be downloaded from the [official Docker website](https://www.docker.com/get-started).
 
 ## Setup Instructions
 
 1. **Clone this repository to your local machine:**
 
-    ```bash
-    git clone <repository-url>
+    ```
+    git clone [<repository-url>](https://github.com/lukasba2/wordpress_docker.git)
     ```
 
 2. **Navigate to the cloned repository:**
-
-    ```
-    cd wordpress-docker-setup
-    ```
 
 3. **Build the Docker image:**
 
